@@ -14,7 +14,7 @@
 </div>
 <div>
 <h3>My social networks: </h3>
-<a href="your-linkedin-URL">
+<a href="www.linkedin.com/in/kateryna-prylutska-785a292aaL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
