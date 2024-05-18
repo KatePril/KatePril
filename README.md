@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Skills](https://img.shields.io/badge/Self_Assessment-415/723/750-FF3300?style=flat-square)](https://github.com/KatePril/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-415/723/750-FF3300?style=flat-square)](https://github.com/KatePril/SelfAssessment/blob/2024-summer/Profile/REPORT.md)
 <!--
 **KatePril/KatePril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
