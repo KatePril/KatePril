@@ -2,10 +2,10 @@
 ## Welcome to my profile
 [![Skills](https://img.shields.io/badge/Self_Assessment-415/723/750-FF3300?style=flat-square)](https://github.com/KatePril/SelfAssessment/blob/2024-summer/Profile/REPORT.md)
 
-###Profile stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KatePril&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KatePril&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=KatePril&theme=vue-dark&hide_border=true)
+### Profile stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KatePril&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KatePril&theme=vue-dark&show_icons=true&hide_border=true&layout=compact))</br>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=KatePril&theme=vue-dark&hide_border=true))</br>
 <!--
 **KatePril/KatePril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
